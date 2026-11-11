@@ -1,4 +1,4 @@
-## Naa Amanua Aboagye
+## Naa Amanua A
 
 **Risk & Compliance | SOX · GRC · Third-Party Risk · Cloud Security Governance**
 
