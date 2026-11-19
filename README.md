@@ -2,7 +2,7 @@
 
 **Risk & Compliance | SOX · GRC · Third-Party Risk · Cloud Security Governance**
 
-Risk and controls professional with **10 years in audit, internal controls and SOX assurance** at global banks and in financial services, most recently as an Assistant Vice President, SOX Assurance, supporting a U.S. consumer bank. I'm extending that foundation into GRC, third-party risk, privacy and cloud security governance, and this GitHub is where I show the work.
+Risk,Compliance and controls professional with **10 years in audit, internal controls and SOX assurance** at global banks and in financial services, most recently as an Assistant Vice President, SOX Assurance, supporting a U.S. consumer bank. I'm extending that foundation into GRC, third-party risk, privacy and cloud security governance, and this GitHub is where I show the work.
 
 ### How I approach GRC
 - **Risk first, checklist second.** Start from what could actually hurt the business, then pick the fewest controls that cover it.
